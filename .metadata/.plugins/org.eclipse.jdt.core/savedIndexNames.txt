@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\Deico\Documents\Proyectos Eclipse\VomStr\.metadata\.plugins\org.eclipse.jdt.core
+1587101456.index
+908171960.index
+3109272138.index
+1922376387.index
+3392739705.index
+1358261943.index
+585546453.index
+3735545116.index
+3860048619.index
+4287049268.index
+4115165266.index
+1067094681.index
+1981267684.index
+396518751.index
+1865797976.index
+4259295129.index
+3870592533.index
+1768665609.index
